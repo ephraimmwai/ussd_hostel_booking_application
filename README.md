@@ -1,4 +1,4 @@
-#This is a USSD  application for Hostel booking done at MERU university
+#USSD  application Hostel booking 
 It is a simple application that queries a database and makes validation.
 
 INSTALLATION STEPS:
